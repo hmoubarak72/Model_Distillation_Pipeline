@@ -1,0 +1,6 @@
+lora_r: 8
+lora_alpha: 16
+learning_rate: 0.0002
+epochs: 3
+lr_scheduler_type: "cosine"
+run_name: "student-lora-r8"
